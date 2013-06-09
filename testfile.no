@@ -1,0 +1,12 @@
+git
+git init
+git remote add [name] [repository-path]
+git remote origin git@github.com:lkbgift/portfolio-in-rails.git
+git add [file-path]
+git add .
+git commit -m "[message]"
+git commit -m "this is a message"
+git push [name] [branch]
+git push origin master
+git pull [repository-path]
+git pull 
